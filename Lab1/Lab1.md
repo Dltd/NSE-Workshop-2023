@@ -7,7 +7,7 @@ Run the script using the following command:
 
 ```bash
 cd ~/NSE-Workshop-2023
-nmap scanme.nmap.org --script ./examples/hello-world.nse 
+nmap scanme.nmap.org --script ./Examples/hello-world.nse 
 ```
 
 The output should look like the following:
